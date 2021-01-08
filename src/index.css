@@ -1,13 +1,13 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 .Box {
-    height: 200px;
-    width: 200px;
-    background: red;
-    margin: 200px;
-    text-align: center;
+	height: 200px;
+	width: 200px;
+	background: red;
+	margin: 200px;
+	text-align: center;
 }
