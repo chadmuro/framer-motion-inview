@@ -2,10 +2,27 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-const Box = () => {};
+const Box = () => {
+    return (
+        <div className="Box"></div>
+    )
+};
 
 const App = () => {
-	return <div className="App">App</div>;
+	return (
+        <div className="App">
+            <Box />
+            <Box />
+            <Box />
+            <Box />
+            <Box />
+            <Box />
+            <Box />
+            <Box />
+            <Box />
+            <Box />
+        </div>
+    );
 };
 
 

@@ -4,7 +4,10 @@
     box-sizing: border-box;
 }
 
-.App {
+.Box {
+    height: 200px;
+    width: 200px;
     background: red;
-    height: 10000px;
+    margin: 200px;
+    text-align: center;
 }
